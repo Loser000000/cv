@@ -62,3 +62,59 @@
 
   </body>
 </html>
+
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>my contact details</title>
+  </head>
+  <body>
+    <h1>my contact details</h1>
+    <table>
+      <tr>
+        <td>NAME=</td>
+        <td>UDAY</td>
+      </tr>
+      <tr>
+        <td>MY EMAILID=</td>
+        <td>Barlaudaykumar7@gmail.com</td>
+      </tr>
+      <tr>
+        <td>my number=</td>
+        <td>6303212427</td>
+      </tr>
+    </table>
+    <hr size="20">
+    <form class="" action="mailto:info@Barlaudaykumar7@gmail.com" method="post"enctype="text/plain">
+      <label>your name plz</label>
+      <input type="text" name="" value="">
+      <input type="checkbox" name="">
+      <input type="color" name="" value="">
+      <input type="submit" name="">
+      <br>
+      <label>your email:</label>
+      <input type="" name="" value="">
+      <br>
+      <label>your message:</label>
+      <textarea name="name" rows="10" cols="10"></textarea>
+
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
